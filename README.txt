@@ -1,6 +1,6 @@
 GRUPO SOLUCIONES INFORMATICAS:
 Integrantes;
-  CARLOS FERNANDO PÁLISA
+  CARLOS FERNANDO PALISA
   SERGIO MOYANO
   CRISTIAN VALDEZ
   VICTOR HUGO 
@@ -13,7 +13,7 @@ CREDENCIALES DE INGRESO
 Administrador de sistema: 
     Usuario: admin 
     Pass: admin 
-Usuario común: 
+Usuario comÃºn: 
    Usuario: user 
    Pass: user
 
